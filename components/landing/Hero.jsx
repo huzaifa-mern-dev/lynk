@@ -17,7 +17,7 @@ export default function Hero() {
           } ifUser={
             <Link href="/dashboard" className={buttonVariants({ variant: "outline" })}>Dashboard</Link>
           } />
-          <Link href="https://github.com/r2hu1/u-sh" className={cn(buttonVariants({ variant: "default" }), "flex items-center gap-1")}><Star className="h-3.5 w-3.5" />Star on Github</Link>
+          <Link href="https://github.com/huzaifa-mern-dev/lynk/" className={cn(buttonVariants({ variant: "default" }), "flex items-center gap-1")}><Star className="h-3.5 w-3.5" />Star on Github</Link>
         </div>
       </div>
     </section>
