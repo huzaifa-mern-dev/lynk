@@ -49,11 +49,6 @@ export default function Header() {
                     </SheetHeader>
                     <SheetFooter>
                         <SheetDescription className="mt-10 grid gap-7 w-full">
-                            {/* <div className="flex items-center justify-between">
-                                <Link href="https://github.com/r2hu1/url-shortner">Github Repo</Link>
-                                <Link href="mailto:hi@rahul.eu.org">Hire Me</Link>
-                                <Link href="https://rahul.eu.org">My Portfolio</Link>
-                            </div> */}
                             <div className="flex items-center justify-between gap-3">
                                 <div className="grid !gap-0.5">
                                     <div className="border rounded-lg overflow-hidden">
